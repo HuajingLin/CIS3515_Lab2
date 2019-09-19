@@ -1,4 +1,4 @@
-Function of application SignUpForm:
+## Function of application SignUpForm:
 
 (1)Collect a user’s name, email, a password, and a password confirmation.
 
@@ -7,4 +7,7 @@ Function of application SignUpForm:
 (3)Make sure the password and password confirmation match.
 
 (4)Display a welcoming message containing the user’s name after clicking the "save" button.
+
+
+## Screenshot of App
 
